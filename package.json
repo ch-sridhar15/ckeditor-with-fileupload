@@ -48,7 +48,7 @@
     "@ckeditor/ckeditor5-table": "^31.1.0",
     "@ckeditor/ckeditor5-typing": "^31.1.0",
     "@ckeditor/ckeditor5-upload": "^31.1.0",
-    "@ch-sridhar15/ckeditor5-file-upload": "^1.0.1"
+    "@ch-sridhar15/ckeditor5-file-upload": "^1.1.0"
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-core": "^31.1.0",
